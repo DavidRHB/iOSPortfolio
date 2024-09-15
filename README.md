@@ -28,6 +28,10 @@ A game where users guess the country based on its flag. It includes features suc
 
 An app for tracking and managing daily habits. Users can add activities, track completion counts, and view progress over time. It supports data persistence and provides visual feedback on habit completion.
 
+### Instafilter
+
+An app that allows users to select an image from their gallery and apply various filters and visual effects using the Core Image framework
+
 ### Moonshot
 
 An app that showcases the Apollo missions. Users can click on each mission to view details about the crew members who were part of it. This app uses JSON notation to read data from the Wikipedia pages of the Apollo Missions and presents them in-app. 
