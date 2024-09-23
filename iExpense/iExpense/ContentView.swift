@@ -30,6 +30,8 @@ struct ContentView: View {
                             .clipShape(RoundedRectangle(cornerRadius: 5))
                             
                     }
+                    .accessibilityElement()
+                    .accessibilityLabel("\(item.name), \(item.amount.formatted(.currency(code: "USD")))") //VoiceOver support
                 }
                 .onDelete(perform: removeItems)
             }
