@@ -12,6 +12,10 @@ An app that helps users calculate how much sleep they need based on their wake-u
 
 A personal library app that allows users to track, visualize and rate their book collection. Users can add, categorize, rate, and review books. 
 
+### BucketList
+
+An app that lets the user build a private list of places on the map that they intend to visit one day, add a description for that place, look up interesting places that are nearby, and save it all to the iOS storage for later. Utilizes the MapKit framework. 
+
 ### CupcakeCorner
 
 An ordering app for an online cupcake delivery service, where users can select flavors, customize their orders, and specify delivery details. It includes features for data persistence and handling network requests.
