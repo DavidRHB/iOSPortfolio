@@ -54,7 +54,7 @@ A simple game/brain-training app that allows you to play Rock, Paper, Scissors a
 
 ### SnowSeeker
 
-An app that lets users browse ski resorts around the world to help them find one suitable for their next holiday. Made specifically for iPadOS, by making use of the extra screen space to show 2 views at the same time. Also works on iOS.
+An app that lets users browse ski resorts around the world to help them find one suitable for their next holiday. Made specifically for iPadOS by making use of the extra screen space to show 2 views at the same time. Also works on iOS.
 
 
 ### TimeTransformer
