@@ -52,6 +52,11 @@ An app that fetches and displays user data from an online database of randomly-g
 
 A simple game/brain-training app that allows you to play Rock, Paper, Scissors against the computer. The app tracks the user score and provides an interactive user interface.
 
+### SnowSeeker
+
+An app that lets users browse ski resorts around the world to help them find one suitable for their next holiday. Made specifically for iPadOS, by making use of the extra screen space to show 2 views at the same time. Also works on iOS.
+
+
 ### TimeTransformer
 
 An app that converts Time Measurement Units (Ex. Minutes to Hours) using a simple graphical interface.
